@@ -1,0 +1,10 @@
+openai
+pandas
+mysql-connector-python>=8.0.0
+python-dotenv
+fastapi
+pydantic
+uvicorn[standard]
+semantic-kernel
+mysql
+mysql-connector
